@@ -1,11 +1,14 @@
-#NFC-Landing-page
+# NFC-Landing-page
+
 Character - Create Yourself for the Metaverse
+
 This project is a web interface for creating and exploring unique digital avatars for use in the metaverse. It allows users to customize characters and highlights the ability to mint these avatars as NFTs.
 
 ![image](https://github.com/user-attachments/assets/8ca40450-0f94-49e5-a9a7-32bb8ce8b7cd)
 
 
 Features
+
 Avatar Creation: The core feature is a character builder that enables users to design personalized avatars.
 Unique Characters: The platform boasts the generation of over 10,000 unique avatars with various combinations of traits.
 NFT Minting: Users can mint their created avatars as NFTs, establishing ownership and enabling use across different metaverse platforms.
