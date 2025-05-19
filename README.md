@@ -1,4 +1,4 @@
-NFC-Landing-page
+#NFC-Landing-page
 Character - Create Yourself for the Metaverse
 This project is a web interface for creating and exploring unique digital avatars for use in the metaverse. It allows users to customize characters and highlights the ability to mint these avatars as NFTs.
 
